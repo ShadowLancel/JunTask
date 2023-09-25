@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 450,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 1416727157,
+            "classId": 11847527,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ShadowLancel",
+            "createdAt": "2023-09-18T12:37:25.288Z",
+            "updatedAt": "2023-09-18T12:38:27.031Z",
+            "tags": [],
+            "classTitle": "matchbox",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        68
+                    ],
+                    [
+                        338,
+                        412
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1416727171,
+            "classId": 11847527,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ShadowLancel",
+            "createdAt": "2023-09-18T12:37:40.096Z",
+            "updatedAt": "2023-09-18T12:38:27.031Z",
+            "tags": [],
+            "classTitle": "matchbox",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        258
+                    ],
+                    [
+                        594,
+                        449
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1416727195,
+            "classId": 11847527,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ShadowLancel",
+            "createdAt": "2023-09-18T12:38:05.990Z",
+            "updatedAt": "2023-09-18T12:38:27.031Z",
+            "tags": [],
+            "classTitle": "matchbox",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        9
+                    ],
+                    [
+                        799,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1416727213,
+            "classId": 11847527,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ShadowLancel",
+            "createdAt": "2023-09-18T12:38:26.928Z",
+            "updatedAt": "2023-09-18T12:38:26.928Z",
+            "tags": [],
+            "classTitle": "matchbox",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        266,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

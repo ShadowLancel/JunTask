@@ -1,0 +1,4 @@
+﻿  Writer_XLS_report.cpp
+C:\Users\ShadowLancel\source\repos\JunTask\JunTask\Writer_XLS_report.cpp(19,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ShadowLancel\source\repos\JunTask\JunTask\Writer_XLS_report.cpp(31,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  JunTask.vcxproj -> C:\Users\ShadowLancel\source\repos\JunTask\x64\Debug\JunTask.exe
